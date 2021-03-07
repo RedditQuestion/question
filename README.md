@@ -42,6 +42,6 @@ even when the package_data has been defined in the setup.py file. But the proble
 
 # Final Questions:
 1) How do I solve problem 1 professionally?
-2) Where is the path to the external data included in the package_data arguement?
+2) Where is the path to the external data included in the package_data arguement and how do i call it so that it can be used by module1.py after installation?
 
             
